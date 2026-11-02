@@ -10,3 +10,4 @@ The project is quizbowl notes bc I don't actually know what to write about but i
 
 
 The itch.io runs on all devices that I can test mobile and computer(they are both apple)
+<img width="1276" height="708" alt="Screen Shot 2026-11-01 at 10 55 03 PM" src="https://github.com/user-attachments/assets/47007ba8-3ff2-4358-8af8-424c9a8235d3" />
