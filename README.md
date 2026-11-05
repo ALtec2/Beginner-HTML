@@ -1,4 +1,4 @@
-PROJECT DISCRIPTION
+PROJECT DISCRIPTION\n
 It is a bit of notes for High School quizbowl in a rmp category. 
 Specifically the theogony of greek mythology. A analysis of Aphrodite, Apollo and Artemis. 
 It's a beginner project focusing basic html plus a bit a css
