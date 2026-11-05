@@ -1,9 +1,11 @@
 PROJECT DISCRIPTION
+
 It is a bit of notes for High School quizbowl in a rmp category. 
 Specifically the theogony of greek mythology and An analysis of Aphrodite, Apollo and Artemis. 
 It's a beginner project focusing basic html plus a bit a css
 
 WHY I MADE IT
+
 This project is me experimenting with html and basic css. 
 I tested images and links as well as the basics
 I try to make the website look good to the best of my ability.
@@ -11,6 +13,7 @@ It does look better on phone so check it on there if you have time.
 Also to share some cool youtubers that I put on the website for learning about mythology and stuff:)
 
 HOW TO RUN 
+
 Use this link: https://altecs.itch.io/quizbowl-notes
 Click the big red button that said "Run Projects"
 
